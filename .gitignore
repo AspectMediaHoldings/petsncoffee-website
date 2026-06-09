@@ -1,0 +1,11 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+.vscode/
+.idea/
+
+# Local env
+.env
+.env.local
